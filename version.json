@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "url": "https://github.com/cloosssseez/MazzCleaner/releases/download/v1.0.1/MazzCleaner.exe",
-  "changelog": "Mise à jour de test v1.0.1."
+    "version": "1.0.2",
+    "url": "https://github.com/cloosssseez/MazzCleaner/releases/download/v1.0.2/MazzCleaner.exe",
+    "changelog": "Ajout du scanner de doublons et optimisation de la grille d'accueil 3x3."
 }
